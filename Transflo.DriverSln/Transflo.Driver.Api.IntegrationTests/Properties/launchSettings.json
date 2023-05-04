@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Transflo.Driver.Api.IntegrationTests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Test"
+      },
+      "applicationUrl": "https://localhost:14487;http://localhost:14488"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transflo.Driver.Api", "Transflo.Driver.Api\Transflo.Driver.Api.csproj", "{BDF208CB-C8AC-41E3-9D33-B49A268BF6FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transflo.Driver.Data", "Transflo.Driver.Data\Transflo.Driver.Data.csproj", "{40B06D82-F23B-4678-BC20-6472010922C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transflo.Driver.Models", "Transflo.Driver.Models\Transflo.Driver.Models.csproj", "{4260FC1E-CE83-4E16-9BFE-812355B9BC7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transflo.Driver.Application", "Transflo.Driver.Application\Transflo.Driver.Application.csproj", "{12126BE8-6AB8-44E7-9BB9-713C483A0BD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transflo.Driver.Api.IntegrationTests", "Transflo.Driver.Api.IntegrationTests\Transflo.Driver.Api.IntegrationTests.csproj", "{303FBF2F-C21A-40D8-B23D-D818F88661E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transflo.Driver.Application.Tests", "Transflo.Driver.Application.Tests\Transflo.Driver.Application.Tests.csproj", "{E10B2BC8-2A5F-40FC-89A4-D82D03ECF913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF208CB-C8AC-41E3-9D33-B49A268BF6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF208CB-C8AC-41E3-9D33-B49A268BF6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF208CB-C8AC-41E3-9D33-B49A268BF6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF208CB-C8AC-41E3-9D33-B49A268BF6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B06D82-F23B-4678-BC20-6472010922C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B06D82-F23B-4678-BC20-6472010922C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B06D82-F23B-4678-BC20-6472010922C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B06D82-F23B-4678-BC20-6472010922C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4260FC1E-CE83-4E16-9BFE-812355B9BC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4260FC1E-CE83-4E16-9BFE-812355B9BC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4260FC1E-CE83-4E16-9BFE-812355B9BC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4260FC1E-CE83-4E16-9BFE-812355B9BC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12126BE8-6AB8-44E7-9BB9-713C483A0BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12126BE8-6AB8-44E7-9BB9-713C483A0BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12126BE8-6AB8-44E7-9BB9-713C483A0BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12126BE8-6AB8-44E7-9BB9-713C483A0BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303FBF2F-C21A-40D8-B23D-D818F88661E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303FBF2F-C21A-40D8-B23D-D818F88661E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303FBF2F-C21A-40D8-B23D-D818F88661E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303FBF2F-C21A-40D8-B23D-D818F88661E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10B2BC8-2A5F-40FC-89A4-D82D03ECF913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10B2BC8-2A5F-40FC-89A4-D82D03ECF913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10B2BC8-2A5F-40FC-89A4-D82D03ECF913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10B2BC8-2A5F-40FC-89A4-D82D03ECF913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC117E8-60BA-411E-BE71-40DB12D03E44}
+	EndGlobalSection
+EndGlobal
